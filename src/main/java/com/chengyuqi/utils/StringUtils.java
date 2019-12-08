@@ -9,7 +9,7 @@ public class StringUtils {
 	
 	/**
 	 * ” œ‰—È÷§
-	 * @param str
+	 * @param str 
 	 * @return  
 	 */
 	public static boolean isEmail(String str) {
